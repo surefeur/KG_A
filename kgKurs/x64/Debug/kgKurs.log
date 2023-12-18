@@ -1,0 +1,13 @@
+﻿  kgKurs.cpp
+C:\Users\User\source\repos\kgKurs\kgKurs.cpp(83,27): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\User\source\repos\kgKurs\kgKurs.cpp(91,27): warning C4305: аргумент: усечение из "double" в "float"
+kgKurs.obj : error LNK2019: ссылка на неразрешенный внешний символ cleardevice в функции main.
+kgKurs.obj : error LNK2019: ссылка на неразрешенный внешний символ closegraph в функции main.
+kgKurs.obj : error LNK2019: ссылка на неразрешенный внешний символ initwindow в функции main.
+Piramid.obj : error LNK2019: ссылка на неразрешенный внешний символ line в функции "public: void __cdecl Piramid::drawPiramid(void)" (?drawPiramid@Piramid@@QEAAXXZ).
+Piramid.obj : error LNK2019: ссылка на неразрешенный внешний символ putpixel в функции "void __cdecl line_DDA(float,float,float,float,float,float,unsigned long)" (?line_DDA@@YAXMMMMMMK@Z).
+Piramid.obj : error LNK2019: ссылка на неразрешенный внешний символ setcolor в функции "public: void __cdecl Piramid::drawPiramid(void)" (?drawPiramid@Piramid@@QEAAXXZ).
+Piramid.obj : error LNK2019: ссылка на неразрешенный внешний символ outtextxy в функции "public: void __cdecl Piramid::drawPiramid(void)" (?drawPiramid@Piramid@@QEAAXXZ).
+Point.obj : error LNK2001: неразрешенный внешний символ outtextxy.
+graphics.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\User\source\repos\kgKurs\x64\Debug\kgKurs.exe : fatal error LNK1120: неразрешенных внешних элементов: 7

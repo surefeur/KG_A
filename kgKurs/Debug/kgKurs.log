@@ -1,0 +1,58 @@
+﻿  Paralel.cpp
+C:\Users\User\source\repos\kgKurs\Colours.h(16,1): warning C4005: MAGENTA: изменение макроопределения
+  (компиляция исходного файла "Paralel.cpp")
+  C:\Users\User\source\repos\kgKurs\Colours.h(10,1):
+  см. предыдущее определение "MAGENTA"
+  
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(17,15): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(18,15): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(19,15): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(20,15): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(23,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(24,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(25,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(26,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(54,25): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(54,36): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(54,35): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(54,24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(293,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(343,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(393,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(511,17): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(511,37): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(512,17): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(512,37): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(513,17): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(513,37): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(520,22): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(526,28): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(537,20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(538,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(540,19): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(541,19): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(544,38): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(545,36): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(545,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(621,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(623,11): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(628,16): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(628,34): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(653,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(654,20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(723,22): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(729,28): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(740,20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(741,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(743,19): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(744,19): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(746,32): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\kgKurs\Paralel.cpp(746,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+graphics.lib(dibutil.obj) : warning LNK4099: "" PDB не найден с "graphics.lib(dibutil.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+graphics.lib(drawing.obj) : warning LNK4099: "" PDB не найден с "graphics.lib(drawing.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+graphics.lib(file.obj) : warning LNK4099: "" PDB не найден с "graphics.lib(file.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+graphics.lib(misc.obj) : warning LNK4099: "" PDB не найден с "graphics.lib(misc.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+graphics.lib(text.obj) : warning LNK4099: "" PDB не найден с "graphics.lib(text.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+graphics.lib(winbgi.obj) : warning LNK4099: "" PDB не найден с "graphics.lib(winbgi.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+graphics.lib(winthread.obj) : warning LNK4099: "" PDB не найден с "graphics.lib(winthread.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+  kgKurs.vcxproj -> C:\Users\User\source\repos\kgKurs\Debug\kgKurs.exe
